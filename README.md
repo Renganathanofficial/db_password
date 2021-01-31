@@ -1,4 +1,4 @@
- db_password
+db_password
 application.secret=rXWp9XtxMaSZZpqKgalrTiQSfHkfRUAQN2S4AEqSW31myhHv5Uwv5qoSHd5qRJbM
 db=mysql://user:ceo@rprotocols/database
 db.user=root
